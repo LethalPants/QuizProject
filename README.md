@@ -38,3 +38,4 @@ public:
 
 	void game_begin();
 ```
+This code is tested using Visual Studio 2019.
