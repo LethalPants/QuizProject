@@ -1,0 +1,339 @@
+Who is the first Indian woman to win an Asian Games gold in 400m run?
+
+A) M.L. Valsamma        
+B) P.T. Usha
+C) Kamaljit Sandhu      
+D) K.Malleshwari
+
+B) P.T. Usha
+Category : Sports
+
+The first Indian to cross seven important seas by swimming ?
+
+A) Amrendra Singh       
+B) Bula Chaudhury
+C) Junko Taibei         
+D) Yuri Gagarin
+
+B) Bula Chaudhury 
+Category : Sports
+
+Which was the 1st non test playing country to beat India in an
+ international match?
+A) Canada               
+B) Zimbabwe 
+C) Sri Lanka            
+D) East Africa
+
+C) Sri Lanka 
+Category : Sports
+
+Who is the english physicist responsible for the "Big Bang Theory"?
+
+A) Albert Einstein      
+B) Michael Skube
+C) George Gamow         
+D) Roger Penrose
+
+C) George Gamow
+Category : General Science
+
+Revolver discovered by : ?
+
+A) Colt                 
+B) Mercafter
+C) Bushwell             
+D) Daimler
+
+A) Colt
+Category : General Science
+
+The first hand glider was designed by…?
+
+A) Leonardo DaVinci     
+B) The Wright brothers
+C) Francis Rogallo      
+D) Galileo
+
+A) Leonardo DaVinci   
+Category : General Science
+
+The first news paper in the world was started by ?
+
+A) Japan                
+B) China
+C) USA 	                
+D) India
+
+B) China
+Category : World History 
+
+In which country Aztec civilization was originated ?
+
+A) Greece 		
+B) USA
+C) Mexico 		
+D) Egypt
+
+C) Mexico
+Category : World History
+
+Who is considered as the master of Greek comedy ?
+
+A) Aeschylus 		
+B) Sophocles
+C) Aristophanes 	
+D) Philip
+
+C) Aristophanes 
+Category : World History
+
+The explicit keyword is an optional decoration for the constructors that takes exactly _____ argument.
+
+A) No argument 			
+B) Two
+C) Three 		
+D) One
+
+D) One
+Category : C++ Programming
+
+Which one is suitable syntax for function template?
+
+A) template< class T> return_type Function_Name(parameters)			
+B) template< typename T> return_type Function_Name(parameters)
+C) both A and B		
+D) None of these
+
+C) both A and B
+Category : C++ Programming
+
+_________________ are used for generic programming.
+
+A) Inheritance			
+B) Virtual Functions
+C) Templates		
+D) None of these
+
+C) Templates
+Category : C++ Programming
+
+A virtual function that has no definition within the base class is called ____________.
+
+A) Pure virtual functions			
+B) Pure Static functions
+C) Pure Const functions		
+D) Friend function
+
+A) Pure virtual functions
+Category : C++ Programming
+
+Which of the following is not written by Munshi Premchand ?
+
+A) Gaban 		
+B) Godan
+C) Manasorovar 		
+D) Guide
+
+D) Guide 
+Category : Books And Authors
+
+The celebrated Novel 'The Godfather' was authored by __________
+
+A) John Milton 		
+B) Victor Hugo
+C) Mario Puzo 		
+D) Harold Robbins
+
+C) Mario Puzo 
+Category : Books And Authors
+
+Who is the author of 'Anandmath'?
+
+A) Rabindranath Tagore 	
+B) Bankim Chandra Chattopadyaya
+C) Sarojini Nayadu 	
+D) Jyotiba Phule
+
+B) Bankim Chandra Chattopadyaya 
+Category : Books And Authors
+
+Reykjavik is the capital of which country?
+
+A) Jamaica 		
+B) Jordan
+C) Iceland 		
+D) Ireland
+
+C) Iceland 
+Category : Country Capitals
+
+What is the capital of Finland?
+
+A) Conakry 		
+B) Prague
+C) Helsinki 		
+D) None of the above
+
+C) Helsinki 
+Category : Country Capitals
+
+The Capital of Tanzania is ___________.
+
+A) Nairobi 		
+B) Lusaka
+C) Kampala 		
+D) Dar-es-Salaam
+
+D) Dar-es-Salaam 
+Category : Country Capitals
+
+Which one of the following is not a true fish?
+
+A) Silver fish 		
+B) Saw fish
+C) Hammer fish 		
+D) Sucker fish
+
+D) Sucker fish 
+Catgory : Animals And Birds
+
+In which of the following kinds of organism is the phenomenon found
+ wherein the female kills the male after copulation ?
+A) Dragonfly 		
+B) Honeybee
+C) Spider 		
+D) Pit viper
+
+B) Honeybee 
+Catgory : Animals And Birds
+
+Pashmina shawl is made from the hair of ___________ 
+
+A) Sheep 		
+B) Goat
+C) Rabbit 		
+D) Yak
+
+B) Goat 
+Catgory : Animals And Birds
+
+Who invented Jet Engine?
+
+A) Sir Frank Whittle		
+B) Gottlieb Daimler
+C) Roger Bacon 		
+D) Lewis E. Waterman
+
+A) Sir Frank Whittle 
+Category : Inventions
+
+What did Galileo Galilei invented?
+
+A) Barometer 	
+B) Pendulum
+C) Microscope 	
+D) Telescope
+
+D) Telescope
+Category : Inventions
+
+Who is the english physicist responsible for the "Big Bang Theory"?
+
+A) Albert Einstein 	
+B) Michael Skube
+C) George Gamow 	
+D) Roger Penrose
+
+C) George Gamow 
+Category : Inventions
+
+Who proposed the Preamble before the Drafting Committee of the Constitution?
+
+A) Jawaharlal Nehru 	
+B) B.R. Ambedkar
+C) B.N.Rau 		
+D) Mahatma Gandhi
+
+A) Jawaharlal Nehru 
+Category : Indian Politics
+
+Who is the guardian of fundamental Rights enumerated in Indian Constitution?
+
+A) Supreme Court 	
+B) Parliament
+C) Constitution 	
+D) President
+
+A) Supreme Court
+Category : Indian Politics
+
+The first Law Officer of the Government of India is the ______________.
+
+A) Union Law Minister 	
+B) Secretary, Ministry of Law
+C) Attorney-General 	
+D) Chief Justice of the Supreme Court
+
+C) Attorney-General
+Category : Indian Politics
+
+The purest form of iron is 
+
+A) Wrought Iron 	
+B) Steel
+C) Pig Iron 		
+D) Nickel Steel
+
+A) wrought iron
+Category : Chemistry
+
+The M.K.S. system was first introduced by
+
+A) Archimedes 		
+B) Albert Einstein
+C) Issac Newton 		
+D) Giovanni Giorgi
+
+D) Giorgi 
+Category : Chemistry
+
+'Yellow cake' is the name of ________, when smuggled across borders.
+
+A) A crude form of heroin 
+B) A crude form of cocaine
+C) Uranium oxide 	
+D) Unrefined gold
+
+C) Uranium oxide 
+Category : Chemistry
+
+Fathometer is used to measure ____________.
+
+A) Earthquakes 		
+B) Rainfall
+C) Ocean depth 		
+D) Sound intensity
+
+C) Ocean depth 
+Category : General Awareness
+
+'One People, One State, One leader' was the policy of ___________.
+
+A) Stalin 		
+B) Hitler
+C) Lenin 		
+D) Mussolin
+
+B) Hitler 
+Category : General Awareness
+
+Golf player Vijay Singh belongs to which country?
+
+A) USA 			
+B) Fiji
+C) India 		
+D) UK
+
+B) Fiji 
+Category : General Awareness
