@@ -20,10 +20,10 @@ private:
 	void splash_screen();
 	void check_ans(ofstream& fout);
 	void move_file_ptr(int index_file, ifstream& fin);
-    void generate_content(int index_file, ifstream& fin, ofstream& fout);
-    void file_scores();
+    	void generate_content(int index_file, ifstream& fin, ofstream& fout);
+    	void file_scores();
 public:
-    Quiz() {
+    	Quiz() {
 		file_text = " ";
 		option = " ";
 		option1 = " ";
